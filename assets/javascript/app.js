@@ -72,7 +72,7 @@ $(function() {
     {
         nome: "Elisa",
         imagem : "assets/image/hhvBaaFF-320.jpg",
-        video : "/content.jwplatform.com/players/hhvBaaFF-SdpdX5I4.html"
+        video : "//content.jwplatform.com/players/hhvBaaFF-SdpdX5I4.html"
     },
 
     {
