@@ -96,11 +96,17 @@ $(function() {
         video : "//content.jwplatform.com/players/RPjlNf7z-SdpdX5I4.html"
     },
     {
+        nome : "Friends (USA)",
+        imagem : "assets/image/Mia9Yle7-320.jpg",
+        video : '//content.jwplatform.com/players/Mia9Yle7-SdpdX5I4.html'
+    },
+    {
         nome: "Bonus para você",
         imagem : "assets/image/TO6P6yEd-320.jpg",
         video : "//content.jwplatform.com/players/TO6P6yEd-SdpdX5I4.html"
     },
     ];
+
     //    //    //Grab the inline template
     var html_list = document.getElementById('list_content_tpl').innerHTML;
     var list_tpl = Handlebars.compile(html_list);
